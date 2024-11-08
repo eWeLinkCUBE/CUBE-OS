@@ -1,6 +1,0 @@
-{
-    "compatible": "cube-rpi4-64",
-    "version": "0.0.1",
-    "uri": "https://github.com/eWeLinkCUBE/CUBE-OS/raspberrypi4b/aarch64/raspberrypi4_64_dev.raucb",
-    "sha512": "d105a4f2a7abb239aa53ad7b2b71b635746a690f597c380b715ebc7fabe1969787508bf60886f92c48fc2d5f4c9718ab0ba54d8b2402ba18de245092a7b3f5a0"
-}
