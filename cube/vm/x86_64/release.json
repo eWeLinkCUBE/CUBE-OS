@@ -1,6 +1,6 @@
 {
     "compatible": "cube-vm-x86_64",
-    "version": "0.0.1",
-    "uri": "",
-    "sha512": "14e7402e6af9300f623ee9d83286be1f1c42145bedc4c1f5de5196cf885c26b6514b82ab534fbe70c9f959dec6675be7ae2e3e6cdf03f9ff549a441d3536df75"
+    "version": "0.0.2",
+    "uri": "https://github.com/eWeLinkCUBE/CUBE-OS/releases/download/test/sdcard.raucb",
+    "sha512": "d9f94063dfa31398be539584038f12be865ef91aec6162243c89e7761340335a773cf92e072898cba1b9d811d167a8ed79a82720c744d1a7b74edb881dc31b72"
 }
