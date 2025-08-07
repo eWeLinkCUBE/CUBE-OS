@@ -40,8 +40,8 @@ CUBE OS can be installed on:
 We're currently running a **public beta** for CUBE OS v0.4. Testers can:
 
 - Help shape the future of local-first smart home automation
-- Win 1 of **30 SONOFF ZBDongle-E** devices through our feedback giveaway
-<img width="2160" height="1600" alt="image" src="https://github.com/user-attachments/assets/3386499e-1891-4fa3-a24f-7d8a3f01b755" />
+
+<img width="2160" height="1600" alt="EDM：Join CUBE OS Beta Test,Win a Zigbee Dongle@2x" src="https://github.com/user-attachments/assets/4c7c2355-95cb-46ff-b519-d77f804f736f" />
 
 To participate:
 - Download, install, and start testing!
