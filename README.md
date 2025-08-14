@@ -21,19 +21,14 @@ CUBE OS can be installed on:
 - **Virtual Machines** (x86_64 architecture, e.g. VirtualBox / VMware)
 - **NAS devices** (with compatible CPU and UEFI boot support)
 
-## 🧰 Getting Started(Raspberry Pi as an example)
+Refer to the [Installation Guide](https://github.com/eWeLinkCUBE/CUBE-OS/tree/master/Installation%20%26%20User%20Guide) for detailed platform-specific steps.
 
-1. **Download the image**
-   - Visit the [Releases](https://github.com/eWeLinkCUBE/CUBE-OS/releases) page to get the latest image for your platform
+## 🧰 Getting Started
 
-2. **Flash to device**
-   - Use tools like [Raspberry Pi Imager](https://www.raspberrypi.com/software/) or [Balena Etcher](https://etcher.io/) to flash the image to your SD card or virtual disk
-
-3. **Boot and access CUBE OS**
-   - Once installed, boot the device and access the dashboard from your browser.
-
-4. **Join the community**
-   - [Join Discord](https://discord.gg/67Ybdn23rS) to share feedback, report issues, or get help
+1. **Download the image** for your device from the [Releases](https://github.com/eWeLinkCUBE/CUBE-OS/releases) page
+2. **Flash or mount** the image using tools like Raspberry Pi Imager, Etcher, or your hypervisor’s disk manager
+3. **Boot the device** and wait for the system to initialize
+4. **Access the Web UI** via `http://cubeos.local` or your device’s IP address
 
 ## 🧪 Beta Participation
 
@@ -50,27 +45,29 @@ To participate:
 
 ## 🧱 Architecture
 
-CUBE OS is built with modularity and security in mind:
+CUBE OS is designed with performance and modularity in mind:
 
-- **Base OS**: Buildroot-based minimal Linux system
-- **Containerized core**: All services run in Docker (including the CUBE Engine, CAST, and Zigbee services)
-- **Add-on Framework**: Add-ons and integrations can run in isolated containers
-- **Zigbee/Matter abstraction**: Supports popular USB dongles and bridges
+- **Core System**: Lightweight OS built with Buildroot
+- **Apps**: Independent system modules running as isolated processes
+- **Messaging Layer**: Internal middleware to enable high-efficiency communication between apps
+- **Zigbee2CUBE**: Middleware to support multiple Zigbee protocols and chipsets via modular drivers
+- **Docker Runtime**: For containerized third-party applications and add-ons
+- **Web API Layer**: Built-in OpenAPI interface for inter-module and external integration
+- **Deployment Flexibility**: Runs in smart home hubs or edge computing scenarios with local or centralized device control
 
-## 🛠️ Common Tasks
+## 🛠️ Common Use Cases
 
-- Access file system via Samba or SSH
-- Install add-ons like File Browser or MQTT broker
-- Use CUBE CAST to build custom dashboards
-- Set up Zigbee pairing via supported dongles
-- Configure Matter Bridge via UI wizard
+- Pair Zigbee devices via supported USB dongles (e.g., SONOFF ZBDongle-E)
+- Use CAST dashboards to control devices from tablets, kiosks, or wall-mounted screens
+- Create local scenes and automations
+- Extend system with Docker-based add-ons
+- Access data via Web API for integration with other platforms
 
-## 🧯 Troubleshooting
+## 🧯 Troubleshooting & Support
 
-- Zigbee not pairing? Make sure your dongle firmware is up to date
-- Network issues? Check that the CUBE container has internet and LAN access
-
-Report bugs or ask questions in our [Discord](https://discord.gg/67Ybdn23rS)
+- Can't access the Web UI? Try using the device’s IP address instead of `cubeos.local`
+- Zigbee issues? Check dongle connection and firmware compatibility
+- Need help? Ask questions or report issues in our [Discord](https://discord.gg/67Ybdn23rS)
 
 ## 🙌 Contribute
 
