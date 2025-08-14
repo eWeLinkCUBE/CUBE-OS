@@ -4,7 +4,7 @@
     - At least 32 GB free disk space.
 + **Software**: 
     - Oracle VirtualBox (recommended) or any other hypervisor you are comfortable with.
-    - **CUBE OS Image**: Download the latest CUBE OS `.zip` or `.xz` archive from: Git repository: `[Link]`
+    - **CUBE OS Image**: Download the latest .xz image file from the Git repository, then extract it to obtain the .vdi disk image for use.
 
 ## Installing VirtualBox
 1. Download the VirtualBox installer from the [official website](https://www.virtualbox.org/).
