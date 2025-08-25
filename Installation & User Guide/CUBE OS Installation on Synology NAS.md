@@ -26,6 +26,7 @@
 ![](https://cdn.nlark.com/yuque/0/2025/png/55334511/1749436628664-e614b162-1529-4803-900a-df1dea5ce8c0.png)
 
 3. Follow the prompts to upload the CUBE OS `.vdi` file.
+!!!!Important : you have to unzip the .xz file first!!!!!
 
 ![](https://cdn.nlark.com/yuque/0/2025/png/55334511/1749436689559-5f3f77b6-b47b-4240-b7e1-4f4c8a6bd24b.png)
 
