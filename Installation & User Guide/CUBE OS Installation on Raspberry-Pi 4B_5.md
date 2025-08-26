@@ -6,7 +6,7 @@
     - microSD card reader
     - Ethernet cable
 + **Software:**
-    - Download the latest CUBEOS `.zip` or `.xz` archive
+    - Download the latest CUBEOS `.xz` archive.
     - Raspberry Pi Imager (or alternative flashing tool)
 
 **Note:** Avoid using generic phone chargers or USB ports on PCs—they often cannot deliver the sustained current required by the Pi.
