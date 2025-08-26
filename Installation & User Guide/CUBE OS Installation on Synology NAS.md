@@ -6,7 +6,7 @@
 + **Software**:
     - WAN access to download the Virtual Machine Manager from the Synology Package Center.
     - Admin account access to your Synology NAS.
-    - **CUBE OS Image**: Download the latest CUBE OS `.zip` or `.xz` archive.
+    - **CUBE OS Image**: Download the latest CUBE OS `.vdi.xz` archive. Please extract the image after downloading.
 
 ## Installing Virtual Machine Manager
 1. Access the Synology NAS **dashboard** via a web browser.
