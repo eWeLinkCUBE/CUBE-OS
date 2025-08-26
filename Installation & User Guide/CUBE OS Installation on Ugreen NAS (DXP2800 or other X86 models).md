@@ -6,7 +6,7 @@
 + **Software:**
     - Virtual Machine feature must be supported and enabled
     - Admin access to your NAS
-    - CUBE OS image file (`.vdi`) downloaded to your computer or stored on the NAS
+    - Download the latest `.xz` image file from the Git repository, then extract it to obtain the `.vdi` disk image for use.
 
 ---
 
