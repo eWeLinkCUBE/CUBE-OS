@@ -1,0 +1,6 @@
+{
+    "sha512": "c81cc8c8ae667143e85b18ac4033f33726940e5fea2894b60c1e542ec8d0bf742e496ed706b81e8d4278fdbfb617afe2070b86c8aa9491ab8204ac0071737c84",
+    "compatible": "cube-rpi5-aarch64",
+    "version": "0.5.1",
+    "uri": "https://github.com/eWeLinkCUBE/CUBE-OS/releases/download/v0.5.1/raspberrypi5_64_prod.raucb"
+}
