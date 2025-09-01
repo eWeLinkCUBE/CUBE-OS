@@ -2,7 +2,6 @@
 + **Hardware**:
     - At least **6GB RAM** installed in your Synology NAS (_4GB allocated for the virtual machine_). If your NAS has only 2GB or less, consult Synology's upgrading guides.
     - Your Synology NAS must have an **x64 platform** (modern units with Intel or AMD processors). 
-        * _Note: As of version 0.1, only x64 architecture is supported. ARM platforms are not currently compatible._
 + **Software**:
     - WAN access to download the Virtual Machine Manager from the Synology Package Center.
     - Admin account access to your Synology NAS.
@@ -19,14 +18,15 @@
 
 3. Launch **Virtual Machine Manager** from the NAS dashboard.
 
-## Creating tht Virtual Machine
+## Creating the Virtual Machine
 1. Navigate to the **Image** page.
 2. Switch to the **Disk Image** tab and click the **Add** button.
 
 ![](https://cdn.nlark.com/yuque/0/2025/png/55334511/1749436628664-e614b162-1529-4803-900a-df1dea5ce8c0.png)
 
 3. Follow the prompts to upload the CUBE OS `.vdi` file.
-!!!!Important : you have to unzip the .xz file first!!!!!
+
+_Note: you have to unzip the .xz file first!_
 
 ![](https://cdn.nlark.com/yuque/0/2025/png/55334511/1749436689559-5f3f77b6-b47b-4240-b7e1-4f4c8a6bd24b.png)
 
@@ -52,14 +52,15 @@
 
 ![](https://cdn.nlark.com/yuque/0/2025/png/55334511/1749437240803-2cf20b1d-b5cc-4283-b34b-a0613c49164b.png)
 
-4. Assign management permissions to your NAS accounts.
-5. Review all settings and ensure the **Power on the virtual machine after creation** option is selected.
-6. Click **Done** to complete the setup.
+4. To connect your Zigbee devices, plug the dongle into your NAS via USB and pass it through to the virtual machine on this page.
+5. Assign management permissions to your NAS accounts.
+6. Review all settings and ensure the **Power on the virtual machine after creation** option is selected.
+7. Click **Done** to complete the setup.
 
 ## Booting CUBE OS
 1. Wait for a few minutes while the virtual machine powers on.
 2. Open a web browser and enter `http://cube.local` to access the CUBE OS onboarding page. 
-    - Alternatively, you can use the VM's IP address to access the page.
+    - Alternatively, you can use the CUBE OS's IP address to access the page.
 
 ![](https://cdn.nlark.com/yuque/0/2025/png/55334511/1748425757582-90bb0b5e-2065-4518-a222-1315dee167ba.png?x-oss-process=image%2Fformat%2Cwebp)
 
