@@ -2,7 +2,7 @@
 
 **eWeLink CUBE OS** is a Smart Home Platform for local small-scale computing platforms, tailored and optimized from the eWeLink Smart Home Cloud Platform and hardware-adapted.
 
-Originally built into SONOFF iHost, CUBE OS is now available as a standalone system you can install on platforms like Raspberry Pi, virtual machines, and NAS devices.
+Originally built into SONOFF iHost, CUBE OS is now available as a standalone system you can install on platforms like Raspberry Pi, virtual machines(x86 only), and NAS devices(x86 only).
 <img width="2620" height="1500" alt="eWeLink CUBE OS" src="https://github.com/user-attachments/assets/104b3dab-277e-4dfe-8c0b-125ed46f937c" />
 
 
