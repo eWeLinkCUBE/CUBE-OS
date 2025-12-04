@@ -90,7 +90,7 @@ You can install eWeLink CUBE OS on:
 In short, almost any device capable of running a VM or a Linux image can run eWeLink CUBE OS.
 
 👉 **Detailed requirements & installation steps:**  
-**https://github.com/eWeLinkCUBE/CUBE-OS/tree/master/Installation%20%26%20User%20Guide**
+**https://cube.ewelink.cc/getting-started/quickstart**
 
 
 # 📹 Quick Start Videos
