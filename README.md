@@ -100,6 +100,15 @@ Want to learn how to install eWeLink CUBE OS, add devices, and sync them to Appl
 👉 **Watch the official quick start videos:**  
 **https://youtube.com/playlist?list=PL3cdVloppBaz5_ysD3MLj8IiEZSlHUwvk&si=V3DdGfCGy4Zaf6WM**
 
+# 📘 Explore CUBE OS More in
+
+We have launched the official **eWeLink CUBE OS Documentation Site**.
+
+All future tutorials, setup guides, feature introductions, update notes, and blog articles related to CUBE OS will be maintained and published here:
+
+👉 **https://cube.ewelink.cc**
+
+If you want to learn how to install CUBE OS, add devices, use Matter Bridge, create automations, or explore advanced features, the documentation site will always provide the latest and most complete information.
 
 # 💬 Join the Community
 
