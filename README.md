@@ -97,7 +97,7 @@ In short, almost any device capable of running a VM or a Linux image can run eWe
 
 Want to learn how to install eWeLink CUBE OS, add devices, and sync them to Apple Home?
 
-![Watch the video](https://www.youtube.com/watch?v=HzoGKqDn8-U)
+https://www.youtube.com/watch?v=HzoGKqDn8-U
 
 # 📘 Explore CUBE OS More in
 
