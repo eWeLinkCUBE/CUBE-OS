@@ -1,6 +1,6 @@
 {
-    "sha512": "65b44a32a46cf77b1b0d116380ff3eb6c9e9f8d0a3471446c2f285ce1a2a284dccb15cdf6d247f6000375588e9a48500fb78b2c5e5ff353d14f6a55776987ec9",
+    "sha512": "d49de30c6dcbafacb47f9956db733b4c746d974fa097ddc867d69553b62fa36df7f56c57fa4d3886c67c071e01ea72cd93c36986820fd76bb7e7e6799e971e17",
     "compatible": "cube-vm-x86_64",
-    "version": "2.10.2",
-    "uri": "https://github.com/eWeLinkCUBE/CUBE-OS/releases/download/v2.10.2/sdcard.raucb"
+    "version": "2.10.3",
+    "uri": "https://github.com/eWeLinkCUBE/CUBE-OS/releases/download/v2.10.3/sdcard.raucb"
 }
