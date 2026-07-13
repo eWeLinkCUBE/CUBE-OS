@@ -48,60 +48,60 @@ eWeLink CUBE OS 是一套免费开放、可自行部署的本地软件系统，�
 📖 **详细教程：**[cube.ewelink.cc/getting-started/quickstart](https://cube.ewelink.cc/getting-started/quickstart)
 
 
-# 🚀 Key Features
+# 🚀 核心特性
 
-### **1. Upgrade existing devices - no new hardware required**  
-Bridge many eWeLink/SONOFF Wi-Fi devices and multi-brand Zigbee devices (via a Zigbee dongle) into the Matter network, extending compatibility across modern ecosystems.
+### **1. 升级现有设备 — 无需购买新硬件**  
+将大量 eWeLink/SONOFF Wi-Fi 设备和多品牌 Zigbee 设备（通过 Zigbee dongle）桥接到 Matter 网络，兼容主流智能家居平台。
 
-### **2. Add Zigbee devices instantly with zero configuration**  
-Simply plug in a Zigbee dongle to quickly add switches, sensors, and lights from various brands. Auto-detection, auto-pairing, ready to use.
+### **2. Zigbee 设备零配置接入**  
+插入 Zigbee dongle，即可快速添加各品牌的开关、传感器和灯具。自动发现、自动配对、即刻可用。
 
-### **3. Make devices available on multiple platforms at the same time**  
-Bridged devices can appear simultaneously in Apple Home, SmartThings, Google Home, Amazon Alexa, Home Assistant, and other Matter-enabled platforms.
+### **3. 多平台同时使用**  
+桥接后的设备可同时出现在 Apple Home、SmartThings、Google Home、Amazon Alexa、Home Assistant 及其他 Matter 平台中。
 
-### **4. Local-first operation for speed and stability**  
-Runs entirely on your local hardware - fast response, reliable connections, no cloud dependency.
+### **4. 本地优先，快速稳定**  
+完全运行在本地硬件上 — 响应快、连接稳定、不依赖云端。
 
 
-# 💻 Install in Under 3 Minutes - No Coding Required
+# 💻 3 分钟完成安装 — 无需编程
 
-eWeLink CUBE OS provides ready-to-use images and VM files.  
-Just flash or import them - no coding, no complex commands.  
-Anyone can install it with ease.
+eWeLink CUBE OS 提供开箱即用的镜像文件和虚拟机文件。  
+只需烧录或导入即可 — 无需编程，无需复杂命令。  
+任何人都能轻松完成安装。
 
-You can install eWeLink CUBE OS on:
+你可以在以下设备上安装 eWeLink CUBE OS：
 
-- **Raspberry Pi** - low power, stable, ideal for always-on setups  
-- **NAS devices** - including Synology, QNAP, and others with virtualization support  
-- **Old unused PCs or laptops** - if they can run a VM, they can run CUBE OS  
-- **Mini PCs, NUCs, home servers, industrial PCs** - for higher performance needs  
+- **Raspberry Pi** — 低功耗、稳定，适合 24 小时运行  
+- **NAS 设备** — 包括群晖、威联通等支持虚拟化的 NAS  
+- **闲置旧电脑或笔记本** — 只要能运行虚拟机，就能运行 CUBE OS  
+- **迷你主机、NUC、家庭服务器、工控机** — 适合对性能有更高要求的场景  
 
-In short, almost any device capable of running a VM or a Linux image can run eWeLink CUBE OS.
+总之，几乎任何能运行虚拟机或 Linux 镜像的设备，都可以安装 eWeLink CUBE OS。
 
-👉 **Detailed requirements & installation steps:**  
+👉 **详细安装要求与步骤：**  
 **https://cube.ewelink.cc/getting-started/quickstart**
 
 
-# 📹 Quick Start Videos
+# 📹 快速上手视频
 
-Want to learn how to install eWeLink CUBE OS, add devices, and sync them to Apple Home?
+想了解如何安装 eWeLink CUBE OS、添加设备并同步到 Apple Home？
 
-[![Watch the video](https://img.youtube.com/vi/HzoGKqDn8-U/hqdefault.jpg)](https://www.youtube.com/watch?v=HzoGKqDn8-U)
+[![观看视频](https://img.youtube.com/vi/HzoGKqDn8-U/hqdefault.jpg)](https://www.youtube.com/watch?v=HzoGKqDn8-U)
 
-# 📘 Explore CUBE OS More in
+# 📘 更多内容请访问
 
-We have launched the official **eWeLink CUBE OS Documentation Site**.
+我们已上线 **eWeLink CUBE OS 官方文档站**。
 
-All future tutorials, setup guides, feature introductions, update notes, and blog articles related to CUBE OS will be maintained and published here:
+未来所有与 CUBE OS 相关的教程、安装指南、功能介绍、更新说明和博客文章，都将在此维护和发布：
 
 👉 **https://cube.ewelink.cc**
 
-If you want to learn how to install CUBE OS, add devices, use Matter Bridge, create automations, or explore advanced features, the documentation site will always provide the latest and most complete information.
+如果你想了解如何安装 CUBE OS、添加设备、使用 Matter Bridge、创建自动化或探索高级功能，文档站将始终提供最新、最完整的信息。
 
-# 💬 Join the Community
+# 💬 加入社区
 
-Have questions or want to share your setup?  
-Join the eWeLink CUBE community discussion:
+有问题？想分享你的配置？  
+加入 eWeLink CUBE 社区讨论：
 
-👉 **eWeLink CUBE Forum:**  
+👉 **eWeLink CUBE 论坛：**  
 **https://forum.ewelink.cc/c/ewelink-cube/23**

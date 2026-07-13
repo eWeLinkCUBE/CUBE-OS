@@ -38,60 +38,60 @@ Mit einem Zigbee-Dongle kann eWeLink CUBE OS zudem Zigbee-Geräte verschiedener 
 
 📖 **Detaillierte Anleitung:** [cube.ewelink.cc/getting-started/quickstart](https://cube.ewelink.cc/getting-started/quickstart)
 
-# 🚀 Key Features
+# 🚀 Hauptfunktionen
 
-### **1. Upgrade existing devices - no new hardware required**  
-Bridge many eWeLink/SONOFF Wi-Fi devices and multi-brand Zigbee devices (via a Zigbee dongle) into the Matter network, extending compatibility across modern ecosystems.
+### **1. Bestehende Geräte aufrüsten — keine neue Hardware erforderlich**  
+Bringen Sie viele eWeLink/SONOFF-Wi-Fi-Geräte und Multi-Brand-Zigbee-Geräte (über einen Zigbee-Dongle) ins Matter-Netzwerk und erweitern Sie die Kompatibilität über moderne Ökosysteme.
 
-### **2. Add Zigbee devices instantly with zero configuration**  
-Simply plug in a Zigbee dongle to quickly add switches, sensors, and lights from various brands. Auto-detection, auto-pairing, ready to use.
+### **2. Zigbee-Geräte sofort mit Nullkonfiguration hinzufügen**  
+Schließen Sie einfach einen Zigbee-Dongle an, um Schalter, Sensoren und Lampen verschiedener Marken schnell hinzuzufügen. Automatische Erkennung, automatisches Pairing, sofort einsatzbereit.
 
-### **3. Make devices available on multiple platforms at the same time**  
-Bridged devices can appear simultaneously in Apple Home, SmartThings, Google Home, Amazon Alexa, Home Assistant, and other Matter-enabled platforms.
+### **3. Geräte gleichzeitig auf mehreren Plattformen verfügbar machen**  
+Gebridete Geräte können gleichzeitig in Apple Home, SmartThings, Google Home, Amazon Alexa, Home Assistant und anderen Matter-fähigen Plattformen angezeigt werden.
 
-### **4. Local-first operation for speed and stability**  
-Runs entirely on your local hardware - fast response, reliable connections, no cloud dependency.
+### **4. Lokal zuerst für Geschwindigkeit und Stabilität**  
+Läuft vollständig auf Ihrer Hardware — schnelle Antwort, zuverlässige Verbindungen, keine Cloud-Abhängigkeit.
 
 
-# 💻 Install in Under 3 Minutes - No Coding Required
+# 💻 In weniger als 3 Minuten installieren — kein Programmieren erforderlich
 
-eWeLink CUBE OS provides ready-to-use images and VM files.  
-Just flash or import them - no coding, no complex commands.  
-Anyone can install it with ease.
+eWeLink CUBE OS stellt fertige Images und VM-Dateien zur Verfügung.  
+Einfach flashen oder importieren — kein Programmieren, keine komplexen Befehle.  
+Jeder kann es problemlos installieren.
 
-You can install eWeLink CUBE OS on:
+eWeLink CUBE OS kann auf folgenden Geräten installiert werden:
 
-- **Raspberry Pi** - low power, stable, ideal for always-on setups  
-- **NAS devices** - including Synology, QNAP, and others with virtualization support  
-- **Old unused PCs or laptops** - if they can run a VM, they can run CUBE OS  
-- **Mini PCs, NUCs, home servers, industrial PCs** - for higher performance needs  
+- **Raspberry Pi** — stromsparend, stabil, ideal für Dauerbetrieb  
+- **NAS-Geräte** — einschließlich Synology, QNAP und anderen mit Virtualisierungsunterstützung  
+- **Alte, ungenutzte PCs oder Laptops** — wenn sie eine VM ausführen können, können sie CUBE OS ausführen  
+- **Mini-PCs, NUCs, Heimserver, Industrie-PCs** — für höhere Anforderungen  
 
-In short, almost any device capable of running a VM or a Linux image can run eWeLink CUBE OS.
+Kurz gesagt: Fast jedes Gerät, das eine VM oder ein Linux-Image ausführen kann, kann eWeLink CUBE OS ausführen.
 
-👉 **Detailed requirements & installation steps:**  
+👉 **Detaillierte Anforderungen & Installationsschritte:**  
 **https://cube.ewelink.cc/getting-started/quickstart**
 
 
-# 📹 Quick Start Videos
+# 📹 Schnellstart-Videos
 
-Want to learn how to install eWeLink CUBE OS, add devices, and sync them to Apple Home?
+Möchten Sie erfahren, wie Sie eWeLink CUBE OS installieren, Geräte hinzufügen und mit Apple Home synchronisieren?
 
 [![Watch the video](https://img.youtube.com/vi/HzoGKqDn8-U/hqdefault.jpg)](https://www.youtube.com/watch?v=HzoGKqDn8-U)
 
-# 📘 Explore CUBE OS More in
+# 📘 Mehr erfahren unter
 
-We have launched the official **eWeLink CUBE OS Documentation Site**.
+Wir haben die offizielle **eWeLink CUBE OS-Dokumentationsseite** gestartet.
 
-All future tutorials, setup guides, feature introductions, update notes, and blog articles related to CUBE OS will be maintained and published here:
+Alle zukünftigen Tutorials, Installationsanleitungen, Funktionsbeschreibungen, Update-Hinweise und Blogartikel zu CUBE OS werden hier gepflegt und veröffentlicht:
 
 👉 **https://cube.ewelink.cc**
 
-If you want to learn how to install CUBE OS, add devices, use Matter Bridge, create automations, or explore advanced features, the documentation site will always provide the latest and most complete information.
+Wenn Sie erfahren möchten, wie Sie CUBE OS installieren, Geräte hinzufügen, Matter Bridge verwenden, Automatisierungen erstellen oder erweiterte Funktionen nutzen, bietet die Dokumentationsseite immer die neuesten und vollständigsten Informationen.
 
-# 💬 Join the Community
+# 💬 Der Community beitreten
 
-Have questions or want to share your setup?  
-Join the eWeLink CUBE community discussion:
+Haben Sie Fragen? Möchten Sie Ihre Einrichtung teilen?  
+Treten Sie der eWeLink CUBE-Community-Diskussion bei:
 
-👉 **eWeLink CUBE Forum:**  
+👉 **eWeLink CUBE-Forum:**  
 **https://forum.ewelink.cc/c/ewelink-cube/23**
