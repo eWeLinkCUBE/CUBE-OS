@@ -18,7 +18,23 @@
 
 eWeLink CUBE OS es un sistema local, gratuito, abierto y auto-alojado, diseñado para actualizar los dispositivos inteligentes que ya tienes en casa.
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/eWeLinkCUBE/CUBE-OS/master/assets/CUBEHERO.png" alt="eWeLink CUBE OS" width="100%">
+</p>
+
 Permite integrar dispositivos Wi-Fi compatibles con eWeLink directamente en la red Matter y admite dispositivos Zigbee de múltiples marcas mediante un dongle Zigbee.
+
+# ⚡ Inicio Rápido
+
+> **Funcionando en menos de 3 minutos — sin programación.**
+
+**1.** Descarga la imagen para tu dispositivo → [**⬇️ Latest Release**](https://github.com/eWeLinkCUBE/CUBE-OS/releases/latest)
+
+**2.** Sigue la guía de instalación — instalación con un clic disponible para Windows y Mac
+
+**3.** Abre la interfaz web y comienza a añadir dispositivos
+
+📖 **Guía detallada:** [cube.ewelink.cc/getting-started/quickstart](https://cube.ewelink.cc/getting-started/quickstart)
 
 # 🚀 Key Features
 

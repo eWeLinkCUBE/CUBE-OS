@@ -24,11 +24,28 @@ A free self-hosted local system that bridges eWeLink Wi-Fi and multi-brand Zigbe
 # 🌐 项目简介
 
 eWeLink CUBE OS 是一套免费开放、可自行部署的本地软件系统，用来升级家中的智能设备。  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/eWeLinkCUBE/CUBE-OS/master/assets/CUBEHERO.png" alt="eWeLink CUBE OS" width="100%">
+</p>
+
 它能够让大量 eWeLink support 的 Wi-Fi 设备（例如 SONOFF 设备）在无需额外硬件的情况下，直接桥接到 Matter 网络，从而同时接入 Apple Home、SmartThings、Google Home、Amazon Alexa、Home Assistant 等平台和 App 使用。
 
 配合一个 Zigbee dongle，eWeLink CUBE OS 还可以接入多品牌的 Zigbee 开关、传感器、灯具，并同样桥接到这些 Matter 平台，让不同来源的设备统一加入你的家庭系统。
 
 通过安装 eWeLink CUBE OS，你可以让现有的 Wi-Fi 与 Zigbee 设备获得更现代、更统一的 Matter 智能家居体验，无需更换任何硬件。
+
+
+# ⚡ 快速开始
+
+> **3 分钟完成安装 — 无需编程。**
+
+**1.** 为你的设备下载镜像文件 → [**⬇️ Latest Release**](https://github.com/eWeLinkCUBE/CUBE-OS/releases/latest)
+
+**2.** 按照安装指南快速安装 — Windows 和 Mac 提供一键安装
+
+**3.** 打开浏览器访问管理界面，开始添加设备
+
+📖 **详细教程：**[cube.ewelink.cc/getting-started/quickstart](https://cube.ewelink.cc/getting-started/quickstart)
 
 
 # 🚀 Key Features
