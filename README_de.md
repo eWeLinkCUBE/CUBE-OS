@@ -7,29 +7,19 @@
 </p>
 
 <p align="center">
-  🇺🇸 English |
-  <a href="README_zh.md">🇨🇳 中文</a> |
-  <a href="README_de.md">🇩🇪 Deutsch</a> |
-  <a href="README_it.md">🇮🇹 Italiano</a> |
-  <a href="README_ru.md">🇷🇺 Русский</a> |
-  <a href="README_pt.md">🇵🇹 Português</a> |
-  <a href="README_es.md">🇪🇸 Español</a>
+  <a href="README.md">🇺🇸 English</a> | <a href="README_zh.md">🇨🇳 中文</a> | 🇩🇪 Deutsch | <a href="README_it.md">🇮🇹 Italiano</a> | <a href="README_ru.md">🇷🇺 Русский</a> | <a href="README_pt.md">🇵🇹 Português</a> | <a href="README_es.md">🇪🇸 Español</a>
 </p>
 
 # eWeLink CUBE OS
+**Make Your Smart Home Great Again**
 
-A free self-hosted local system that bridges eWeLink Wi-Fi and multi-brand Zigbee devices into the Matter network for Apple Home, SmartThings, Google Home, Alexa, and Home Assistant.
+# 🌐 Einführung
 
+eWeLink CUBE OS ist ein kostenloses, offenes und selbst gehostetes lokales Softwaresystem, das dazu dient, die vorhandenen Smart-Home-Geräte in Ihrem Zuhause aufzurüsten.
 
-# 🌐 Introduction
+Es ermöglicht vielen eWeLink-kompatiblen Wi-Fi-Geräten – wie SONOFF-Produkten – ohne zusätzliche Hardware direkt in das Matter-Netzwerk eingebunden zu werden.
 
-eWeLink CUBE OS is a free, open, self-hosted local software system designed to upgrade the smart devices already in your home.
-
-It allows many eWeLink-supported Wi-Fi devices—such as SONOFF products—to be directly bridged into the Matter network without any additional hardware, enabling them to work simultaneously with Apple Home, SmartThings, Google Home, Amazon Alexa, Home Assistant, and other Matter-compatible platforms.
-
-With a Zigbee dongle, eWeLink CUBE OS can also integrate multi-brand Zigbee switches, sensors, and lights—and bridge them into these Matter platforms—bringing your devices together into one unified smart home environment.
-
-By installing eWeLink CUBE OS, your existing Wi-Fi and Zigbee devices gain a modern and unified Matter smart home experience—without replacing any hardware.
+Mit einem Zigbee-Dongle kann eWeLink CUBE OS zudem Zigbee-Geräte verschiedener Marken integrieren und ebenfalls in diese Matter-Plattformen überführen – für ein einheitliches Smart-Home-System.
 
 
 # 🚀 Key Features
