@@ -18,7 +18,7 @@
 
 # eWeLink CUBE OS
 
-A free self-hosted local system that bridges eWeLink Wi-Fi and multi-brand Zigbee devices into the Matter network for Apple Home, SmartThings, Google Home, Alexa, and Home Assistant.
+A free self-hosted local software system that bridges eWeLink Wi-Fi and multi-brand Zigbee devices into the Matter network for Apple Home, SmartThings, Google Home, Alexa, Home Assistant, and more.
 
 
 # 🌐 Introduction
@@ -26,7 +26,7 @@ A free self-hosted local system that bridges eWeLink Wi-Fi and multi-brand Zigbe
 eWeLink CUBE OS is a free, open, self-hosted local software system designed to upgrade the smart devices already in your home.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/eWeLinkCUBE/CUBE-OS/master/assets/CUBEHERO.png" alt="eWeLink CUBE OS" width="100%">
+  <img src="https://raw.githubusercontent.com/eWeLinkCUBE/CUBE-OS/master/assets/CUBEHERO.png" alt="eWeLink CUBE OS" width="70%">
 </p>
 
 It allows many eWeLink-supported Wi-Fi devices—such as SONOFF products—to be directly bridged into the Matter network without any additional hardware, enabling them to work simultaneously with Apple Home, SmartThings, Google Home, Amazon Alexa, Home Assistant, and other Matter-compatible platforms.
