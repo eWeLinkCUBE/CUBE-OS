@@ -1,6 +1,6 @@
 {
-    "sha512": "adcedcab7bf5a5e14aa9eb3f5e6cb9ecca364046cc0c2f028d47301662b55e1a72afa50e1e2c7167847cc753957c225e9a49bf83c82f5eec06590d1128b2537a",
+    "sha512": "5e5ea3ca6982fdba6d134169967653996a21772a9f21a036a1777f025ef665c1f6603a4d40c1134b23a6ba6514f2ae02f9240a1b70124729124a5ed56c45eb3e",
     "compatible": "cube-rpi4-aarch64",
-    "version": "2.12.0",
-    "uri": "https://github.com/eWeLinkCUBE/CUBE-OS/releases/download/v2.12.0/raspberrypi4_64_prod.raucb"
+    "version": "2.13.1",
+    "uri": "https://github.com/eWeLinkCUBE/CUBE-OS/releases/download/v2.13.1/raspberrypi4_64_prod.raucb"
 }
