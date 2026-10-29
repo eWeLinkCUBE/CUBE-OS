@@ -3,6 +3,6 @@
     "compatible": "cube-vm-x86_64",
     "version": "2.15.1",
     "uri": "https://github.com/eWeLinkCUBE/CUBE-OS/releases/download/v{version}/sdcard.raucb",
-    "whitelist": ["bdjmo1yprn"],
+    "whitelist": ["z49u7wquyr"],
     "versionThresholds": {}
 }
