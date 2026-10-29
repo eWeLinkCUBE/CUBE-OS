@@ -1,6 +1,6 @@
 {
-    "sha512": "93232a1e62c9ed89aa58a48277bea1fa6fd49800708b5c2dddfa455f0ea14052bee3dcce81a2b96832d8be0504d5372b88f35e28f444575381e8ccab88503b81",
+    "sha512": "b21790c11c9fc2e83351d7b95da6393418eb5f585a27e9474404d72f3659d7e919f72b2307508d2564ae7d92d45ab8f3cbdc0c6055c859934c5d31d92db48311",
     "compatible": "cube-rpi5-aarch64",
-    "version": "2.14.1",
-    "uri": "https://github.com/eWeLinkCUBE/CUBE-OS/releases/download/v2.14.1/raspberrypi5_64_prod.raucb"
+    "version": "2.15.0",
+    "uri": "https://github.com/eWeLinkCUBE/CUBE-OS/releases/download/v2.15.0/raspberrypi5_64_prod.raucb"
 }
